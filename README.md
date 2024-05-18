@@ -1,3 +1,25 @@
+# E-Commerce Project
+
+## Introduction
+This is an e-commerce project built with React.js, Redux Toolkit, Tailwind CSS, and JSON Server.
+ It includes features such as product listing with search, filters, and sorting, product detail pages,
+ a cart, a checkout process, and user registration.
+
+## Features
+- Product listing with categories
+- Load more functionality
+- Search bar with auto-suggestion and cached results
+- Filtering by size, color, brand
+- Sorting by price and popularity
+- Lazy loading for categories
+- Product detail page
+- Cart functionality
+- Checkout process
+- User registration
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
